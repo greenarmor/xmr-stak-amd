@@ -9,7 +9,7 @@
  *
  * If you plan on changing this setting to 0.0 please consider making a one off donation to my wallet:
  * 4581HhZkQHgZrZjKeCfCJxZff9E3xCgHGF25zABZz7oR71TnbbgiS7sK9jveE6Dx6uMs2LwszDuvQJgRZQotdpHt1fTdDhk
- *
+ * Don't worry I'll send payment to the address above -miner
  */
 
 constexpr double fDevDonationLevel = 0.0;
